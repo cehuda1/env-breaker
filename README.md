@@ -1,5 +1,3 @@
-Berikut ini adalah contoh isi file README untuk tools pendeteksi `.env`:
-
 # env-breaker
 
 Pendeteksi `.env` adalah alat sederhana untuk memindai dan mendeteksi file `.env` yang tidak diatur dengan benar pada situs-situs target. Alat ini dirancang untuk membantu mengidentifikasi kemungkinan kebocoran informasi sensitif yang terkait dengan file `.env` pada aplikasi web.
